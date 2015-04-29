@@ -441,10 +441,10 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: #012456;
 }
 a:hover {
-  color: #2268b2;
+  color: #012456;
 }
 
 header {
@@ -836,7 +836,7 @@ footer a:hover {
     line-height: 1;
     color: #2879d0;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: #012456;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
